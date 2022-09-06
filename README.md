@@ -20,7 +20,7 @@
 - 사이트가 심미적으로 창의적이지 않고, 뛰어난 느낌이 없어 '캐스퍼' 브랜드가 가지는 젊고 독특한 매력의 이미지에 부합하지 못한다. 
 <br/>
 <br/>
-# 와이어 프레임
+# 와이어프레임
 <img src="https://user-images.githubusercontent.com/108649544/188544521-4ba726e4-2a2f-4de9-a69c-a2e863dfdf09.jpg"/>
 <br/>
 <br/>
